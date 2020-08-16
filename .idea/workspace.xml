@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3270ef3-2f85-4d9b-83f5-917149d3cf50" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1g5oF4p1pxE2dS3wQ7Xgm90e2Uk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Documents\Silvio\XAMP\htdocs\Teste\view" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Documents\Silvio\XAMP\htdocs\Teste\view" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3270ef3-2f85-4d9b-83f5-917149d3cf50" name="Default Changelist" comment="" />
+      <created>1597413729820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597413729820</updated>
+      <workItem from="1597413735592" duration="1018000" />
+      <workItem from="1597421014006" duration="23564000" />
+      <workItem from="1597488852926" duration="3150000" />
+      <workItem from="1597493551591" duration="21094000" />
+      <workItem from="1597522056653" duration="1172000" />
+      <workItem from="1597529074965" duration="3119000" />
+      <workItem from="1597534808618" duration="5974000" />
+      <workItem from="1597577900997" duration="14069000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="485" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1597440475736">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="485" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1360.728@0.0.1360.728" timestamp="1597440475736" />
+    <state x="410" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597520158058">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="410" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1360.728@0.0.1360.728" timestamp="1597520158058" />
+    <state x="460" y="118" key="FileChooserDialogImpl" timestamp="1597537403315">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="460" y="118" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1597537403315" />
+    <state x="463" y="86" key="NewPhpClassDialog" timestamp="1597533641993">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="463" y="86" key="NewPhpClassDialog/0.0.1360.728@0.0.1360.728" timestamp="1597533641993" />
+    <state x="515" y="286" key="NewPhpFileDialog" timestamp="1597585423591">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="515" y="286" key="NewPhpFileDialog/0.0.1360.728@0.0.1360.728" timestamp="1597585423591" />
+    <state x="284" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597428054845">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="284" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1360.728@0.0.1360.728" timestamp="1597428054845" />
+    <state x="204" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1597439875236">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="204" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1360.728@0.0.1360.728" timestamp="1597439875236" />
+  </component>
+</project>
